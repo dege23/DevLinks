@@ -22,14 +22,16 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🛠 &nbsp;Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; & ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+<br><br>
 
 ## 💻 Projeto
 
@@ -57,7 +59,15 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 - Conheci novas funcionalidades JavaScript
 - Aprendi mais sobre Git e Github
 
-## Redes Sociais
-<a href="https://github.com/dege23" style="gap: 12px;">
-<img src=".github/github-mark-white.svg" alt="GitHub" width="24" height="24">  Github
+<br><br>
+
+## Minhas Redes Sociais
+
+<p align="left" style="background:yellow">
+<a href="https://github.com/dege23" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-dege23-05122A?style=flat&logo=github" alt="GitHub"/>
 </a>
+<a href="https://instagram.com/dege23" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-dege23-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
