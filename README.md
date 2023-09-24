@@ -58,6 +58,6 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 - Aprendi mais sobre Git e Github
 
 ## Redes Sociais
-<a href="https://github.com/dege23" style="display: flex; align-items: center;text-decoration: none; gap: 12px; cursor: pointer;">
-<img src=".github/github-mark-white.svg" alt="GitHub" width="24" height="24" style="cursor: inherit;">  Github
+<a href="https://github.com/dege23" style="gap: 12px;">
+<img src=".github/github-mark-white.svg" alt="GitHub" width="24" height="24">  Github
 </a>
