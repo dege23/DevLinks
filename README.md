@@ -68,7 +68,7 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 <a href="https://github.com/dege23" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-dege23-05122A?style=flat&logo=github" alt="GitHub"/>
 </a>
-<a href="https://instagram.com/dege23" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-dege23-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/dege.vinte3" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-dege.vinte3-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
