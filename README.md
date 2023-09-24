@@ -6,9 +6,9 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>   |   
+  <a href="#-projeto">Projeto</a>   |   
+  <a href="#-layout">Layout</a>   |   
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -36,7 +36,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
@@ -50,3 +49,15 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+## 📝 Aprendizados
+
+- Revisei e aprendi conceitos
+- Aprendi melhores práticas
+- Conheci novas funcionalidades JavaScript
+- Aprendi mais sobre Git e Github
+
+## Redes Sociais
+<a href="https://github.com/dege23" style="display: flex; align-items: center;text-decoration: none; gap: 12px; cursor: pointer;">
+<img src=".github/github-mark-white.svg" alt="GitHub" width="24" height="24" style="cursor: inherit;">  Github
+</a>
